@@ -4,7 +4,7 @@ public class abc {
 	public static void main(String args[]){
 		public String a;
 		System.out.println(a):
-		System.out.println("hiiii");
+		System.out.println("hiii");
 
 	}
 
